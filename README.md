@@ -106,9 +106,8 @@ npm run dev   # next dev — http://localhost:3000
 
 ```bash
 npm test      # node --test
+npm run lint  # next lint (ESLint, next/core-web-vitals)
 ```
-
-> **Note:** `npm run lint` (`next lint`) needs a one-time ESLint config that does not exist in this repo yet — **TODO**, not set up to avoid adding dependencies unprompted.
 
 ### Building / deploying
 
